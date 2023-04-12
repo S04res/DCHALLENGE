@@ -1,11 +1,11 @@
-# Calculadora IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+# BMI Calculator
+The BMI Calculator was an app I developed to take my first steps in Android development. I participated in the 10D challenge in the DevSpace community and managed to go from zero to a working app.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/screenshot/1 - screeenshot.png" width="260">&emsp;<img src="/screenshot/2 - screenshot.png" width="260">&emsp;<img src="/screenshot/3 - Screenshot.png" width="260">
 
-## Tecnologias
+## Knowledge Stack
 * Kotlin
 * Activity para host de telas
 * ViewGroup
@@ -21,10 +21,10 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - String resource para concatenação de textos
 
 ### TODO
-- Melhorar estilização do app
+- Enhance the app's visual design
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+ Uelton Soares Dos Santos (follow me on [Linkedin](https://www.linkedin.com/in/uelton-soares-santos-606157260/))
 
 ## License
 ```
